@@ -223,7 +223,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """ 📂@KannadaMagaa {file_caption}"""
+    CAPTION = """ 📂 {file_caption}"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
